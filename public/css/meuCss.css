@@ -1,0 +1,24 @@
+body{
+    background-color:whitesmoke;
+    font-family: verdana;
+        
+}
+
+.btn-topo{
+    float: left;
+    
+}
+h1{
+    color: #333;
+}
+.li-botao{
+			display: inline-block;
+            clear:both;
+}
+.menu{
+    margin-top: .70em;
+}
+.btn-topo a{
+    color: white;
+    text-decoration: none;
+} 
